@@ -1,2 +1,57 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+# MUHAMMAD NAUMAN JAWAD
+**Civil / Structure Engineer | R.C.C & Steel Structural Designer | BIM Structural Engineer**  
+Lahore, Punjab, Pakistan | [LinkedIn Profile](https://www.linkedin.com/in/muhammad-nauman-jawad-364ba4250)
+
+---
+
+## PROFESSIONAL SUMMARY
+Dedicated Structural and BIM Engineer specializing in the design, detailing, and analysis of residential, commercial, and Pre-Engineered Building (PEB) steel structures. Experienced in applying American design codes (ACI, AISC, ASCE) and delivering high-LOD 350+ data-rich BIM models and shop drawings.
+
+---
+
+## CORE COMPETENCIES & SKILLS
+* **Structural Software:** STAAD Pro, IDEA StatiCa
+* **BIM & Modeling:** Autodesk Revit (2D/3D presentation & detailing), Revit Structure
+* **Estimation & Tools:** Revu Bluebeam, MS Excel
+* **Codes & Standards:** AISC, ACI, ASCE 7-05 / 7-16, SJI
+* **Languages:** English (Full Professional), Pushto (Native), Urdu (Native), Punjabi (Elementary)
+
+---
+
+## WORK EXPERIENCE
+
+### **BIM Structure Engineer**
+**Canam Steel Corporation** | *Lahore, Pakistan*  
+*(June 2023 – Present)*
+* Performed structural analysis for steel joists and girders per ASCE 7-05, AISC, and SJI standards.
+* Generated data-rich Revit models at **LOD 350+** to support detailing, fabrication, and interdisciplinary coordination.
+* Produced shop drawings and fabrication docs directly from Revit models, reducing rework and manual errors.
+* Coordinated actively with general contractors, architects, and MEP teams to resolve design conflicts.
+
+### **Steel Structure Engineer**
+**Crimson Engineering Pvt. Ltd.** | *Lahore, Pakistan*  
+*(August 2022 – June 2023)*
+* Analyzed and designed PEB structures using ASCE 7-16 and AISC 360-16 codes.
+* Designed complex steel connections and modeled structural erection drawings in Revit.
+
+### **Site Engineer (Internships)**
+**WESTCON Construction (Pvt.) Ltd.** | *Lahore, Pakistan*  
+*(July 2020 – Sept 2020 & July 2021 – Aug 2021)*
+* Reviewed structural drawings, prepared Bar Bending Schedules (BBS), and managed site layouts/leveling.
+* Supervised site concreting, steel reinforcement placement, and formwork execution.
+
+---
+
+## EDUCATION
+
+* **Master of Science (M.S.) in Integrated Building Design**  
+  *University of Engineering and Technology (UET), Lahore* | *(2022 – 2025)*
+* **Bachelor of Science (B.S.) in Civil Engineering**  
+  *The University of Lahore* | *(2018 – 2022)*
+
+---
+
+## CERTIFICATIONS
+* Autodesk Structural Robot R.C.C Villa Design in UAE
+* BIM-Graphic Presentation & Design in Revit
+* ChatGPT and Professional Integrity & Productivity Tools
